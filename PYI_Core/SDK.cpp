@@ -14,7 +14,8 @@ void SDK::InitCPython()
 		"python38.dll",
 		"python37.dll",
 		"python310.dll",
-		"python311.dll"
+		"python311.dll",
+		"python312.dll"
 	};
 
 	while (hPython == nullptr) {
