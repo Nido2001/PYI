@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(16,6): error C2664: 'BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)': cannot convert argument 2 from 'LPSTR' to 'LPWSTR'
+  C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(16,44):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(385,1):
+  see declaration of 'CreateProcessW'
+  C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(16,6):
+  while trying to match the argument list '(int, LPSTR, int, int, int, int, int, int, STARTUPINFO *, PROCESS_INFORMATION *)'
+  
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(23,3): error C3861: 'PrintModules': identifier not found
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(48,28): error C2280: 'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const wchar_t *)': attempting to reference a deleted function
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream(970,31):
+  see declaration of 'std::operator <<'
+  
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(48,28): error C2088: '<<': illegal for class

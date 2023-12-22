@@ -1,0 +1,3 @@
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\x64\Debug\PYI_Console.vcxproj.MdMergeInputs.cache
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\x64\Debug\PYI_Console.vcxproj.cppwinrt_plat.cache
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\x64\Debug\PYI_Console.vcxproj.cppwinrt_comp.cache

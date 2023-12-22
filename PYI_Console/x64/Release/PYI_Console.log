@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(174,11): warning C4996: 'zmq::detail::socket_base::send': from 4.3.1, use send taking message_t and send_flags
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(176,10): warning C4996: 'zmq::poll': from 4.8.0, use poll taking std::chrono::duration instead of long
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(180,12): warning C4996: 'zmq::detail::socket_base::recv': from 4.3.1, use recv taking a reference to message_t and recv_flags
+C:\Users\jenil\source\repos\PYI_Console\PYI_Console\main.cpp(99,8): warning C4189: 'result': local variable is initialized but not referenced
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 136 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PYI_Console.vcxproj -> C:\Users\jenil\source\repos\PYI_Console\x64\Release\PYI_Console.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
